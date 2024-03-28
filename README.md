@@ -23,7 +23,7 @@ Alternatively, the player can input their own word. It must be a single word of 
 #### Gameplay:
 Once the word and category are selected, the game proceeds to the main phase, where the player guesses individual letters of the word. They have a certain number of attempts to guess all the correct letters. After exhausting attempts, the game ends, and the player learns whether they won or lost.
 
-#### Files:
+## Files:
 - hangman.py: Main script for launching the game.
 
 ## Functions:
